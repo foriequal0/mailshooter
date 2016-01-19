@@ -1,0 +1,12 @@
+subject: This is a subject
+
+attachment:
+    image1:
+        path: ./1.jpg
+    image2:
+        path: ./2.png
+
+body: |
+    <h1>Hi ${name}, this is body</h1>
+    <img src="cid:image1"/>
+    <img src="cid:image2"/>

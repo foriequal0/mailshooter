@@ -1,0 +1,5 @@
+sender: 'sender-mail-address'
+smtp: 'smtp.gmail.com'
+port: 587
+id: 'your-gmail-adderss'
+password: 'your-gmail-password'
